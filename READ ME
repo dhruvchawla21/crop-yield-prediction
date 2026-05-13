@@ -1,0 +1,27 @@
+# Crop Yield Prediction & Agricultural Data Analysis
+
+Machine Learning project focused on agricultural data analysis, preprocessing, feature engineering, and predictive modeling.
+
+## My Contribution
+- Exploratory Data Analysis (EDA)
+- Data preprocessing
+- Missing value analysis
+- Data visualization
+- Feature understanding and engineering
+
+## Workflow
+1. Data Cleaning
+2. Exploratory Data Analysis
+3. Feature Engineering
+4. Data Preprocessing
+5. Model Training
+6. Model Evaluation
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- XGBoost
+- LightGBM
