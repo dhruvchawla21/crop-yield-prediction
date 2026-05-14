@@ -181,12 +181,6 @@ jupyter
 
 ---
 
-## 📁 What to Upload to GitHub
-
-See the section below ↓
-
----
-
 ## 📝 Notes
 
 - The notebook uses `income_per_acre` only inside Phase 2 feature engineering; the final model feature list is defined separately in Phase 3's `preprocess()` function.
@@ -196,6 +190,4 @@ See the section below ↓
 
 ---
 
-## 👤 Author
 
-Your Name — [GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/your-profile)
