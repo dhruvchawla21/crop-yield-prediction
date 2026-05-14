@@ -52,6 +52,12 @@ AgriIntel/
 
 ---
 
+## Dataset
+
+Download the dataset from Google Drive:
+
+https://drive.google.com/drive/u/0/folders/19Xxo4LCxDfBkRan-Sk2ku8BLJn1rTHnZ
+
 ## 🔄 Pipeline Overview
 
 The notebook is organized into **4 sequential phases** + **2 bonus tasks**. Run the cells in order.
