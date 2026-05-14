@@ -22,8 +22,8 @@ Model evaluation metric: **MAPE (Mean Absolute Percentage Error)** on total inco
 AgriIntel/
 │
 ├── Untitled.ipynb              # Main notebook (all 4 phases)
-├── train_data.csv              # Raw training data (YOU must provide)
-├── test_data.csv               # Raw test data (YOU must provide)
+├── train_data.csv              # Raw training data 
+├── test_data.csv               # Raw test data 
 │
 ├── train_processed.csv         # Output: cleaned + engineered features
 ├── train_processed_scaled.csv  # Output: scaled version for Ridge baseline
