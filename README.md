@@ -114,8 +114,8 @@ The notebook is organized into **4 sequential phases** + **2 bonus tasks**. Run 
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/agriintel-challenge.git
-cd agriintel-challenge
+git clone https://github.com/dhruvchawla21/crop-yield-prediction
+
 
 # Install dependencies
 pip install -r requirements.txt
