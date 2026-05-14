@@ -21,7 +21,7 @@ Model evaluation metric: **MAPE (Mean Absolute Percentage Error)** on total inco
 ```
 AgriIntel/
 │
-├── Untitled.ipynb              # Main notebook (all 4 phases)
+├── ML_project.ipynb              # Main notebook (all 4 phases)
 ├── train_data.csv              # Raw training data 
 ├── test_data.csv               # Raw test data 
 │
@@ -148,7 +148,7 @@ jupyter
 ## 🚀 How to Reproduce
 
 1. Place `train_data.csv` and `test_data.csv` in the project root.
-2. Open `Untitled.ipynb` in Jupyter.
+2. Open `ML_project.ipynb` in Jupyter.
 3. Run all cells **in order** (Kernel → Restart & Run All).
 4. All intermediate CSVs and figures will be saved automatically.
 5. Final predictions are saved to `TeamName_predictions.csv`.
