@@ -177,13 +177,12 @@ jupyter
 
 | Model | CV MAPE |
 |---|---|
-| Ridge (baseline) | ~XX% |
-| LightGBM | ~XX% |
-| XGBoost | ~XX% |
-| Stacked Ensemble | ~XX% |
-| Weighted Average | ~XX% |
+| Ridge (baseline) | ~26.86% |
+| LightGBM | ~23.98% |
+| XGBoost | ~24.45% |
+| Stacked Ensemble | ~24.31% |
+| Weighted Average | ~24.38% |
 
-> Fill in your actual scores after running the notebook.
 
 ---
 
@@ -195,5 +194,3 @@ jupyter
 - External MSP prices are sourced from [DACFW (Kharif 2022-23)](https://agricoop.nic.in/en/msp); the state productivity index is approximated from NABARD/MoA state reports.
 
 ---
-
-
